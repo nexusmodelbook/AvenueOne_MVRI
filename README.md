@@ -239,7 +239,7 @@ If those are true, Nexus is real.
 
 ## **License & Usage**
 
-License details will be defined based on publishing and distribution intent.
+Apache License, Version 2.0
 
 ---
 
